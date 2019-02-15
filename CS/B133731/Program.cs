@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace B133731 {
+namespace DXSample {
     static class Program {
         /// <summary>
         /// The main entry point for the application.
@@ -11,7 +11,7 @@ namespace B133731 {
         static void Main() {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Main());
         }
     }
 }
