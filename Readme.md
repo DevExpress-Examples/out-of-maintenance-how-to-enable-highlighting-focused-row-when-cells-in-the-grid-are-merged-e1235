@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Form1.cs](./CS/B133731/Form1.cs) (VB: [Form1.vb](./VB/B133731/Form1.vb))
+* [Main.cs](./CS/B133731/Main.cs) (VB: [Main.vb](./VB/B133731/Main.vb))
 <!-- default file list end -->
 # How to enable highlighting focused row when cells in the grid are merged
 
